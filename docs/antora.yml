@@ -1,6 +1,5 @@
-name: main-component
-title: Main Component
-version: 1.0
+name: physics-vault
+title: The Physics Vault
 nav:
   - modules/ROOT/nav.adoc
   - modules/about/nav.adoc
