@@ -1,5 +1,6 @@
 name: physics-vault
 title: The Physics Vault
+version: 1.0.0
 nav:
   - modules/ROOT/nav.adoc
   - modules/about/nav.adoc
