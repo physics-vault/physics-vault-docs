@@ -1,2 +1,6 @@
 name: main-component
 title: Main Component
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/about/nav.adoc
+  - modules/particle-physics/nav.adoc
