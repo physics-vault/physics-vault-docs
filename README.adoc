@@ -1,0 +1,13 @@
+= Physics Vault Docs
+
+// URLs
+:url-project: https://physics-vault.github.io
+
+The Physics Vault Docs is the documentation component used by {url-project}[The Physics Vault site].
+
+== Copyright and License
+
+Copyright (C) 2023-present by Kris Stern.
+
+Use of this software is granted under the terms of the https://opensource.org/license/mit/[MIT License].
+See link:LICENSE[] to find the full license text.

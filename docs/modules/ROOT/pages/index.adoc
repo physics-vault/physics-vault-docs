@@ -1,0 +1,9 @@
+= Hello, world!
+:navtitle: Welcome
+
+The goals of this site is to share some notes of a very personal journey into the world of modern physics.
+Mainly, I will post here some notes of observations as well as suggested solutions to textbook problems and update these from time to time, both as a record of my struggles to revisit these ideas after I have graduated with a PhD in Physics in 2021, as well as an online “vault” where my ideas in the field of modern physics can be shared with anyone who is equally interested in the subject.
+
+As such the contents presented may be somewhat opinionated in terms of approach and style.
+
+I do hope you will enjoy browsing the site.
